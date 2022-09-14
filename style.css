@@ -67,6 +67,10 @@ section:not(#three) {
     align-items: center;
   }
 
+#two div {
+    width: 175px;
+}
+
 #two {
     display: flex;
     align-items: center;
